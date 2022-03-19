@@ -8,5 +8,5 @@ hello.txt
 hello.txt
 hello.txt
 hello.txt
-hello.txt
+hello.txt merge master
 hello.txt
